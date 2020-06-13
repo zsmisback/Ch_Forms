@@ -1,0 +1,12 @@
+.con_style{box-shadow:0px 2px 10px black;}
+
+.passcheck {
+        float: right;
+        margin-right: 6px;
+        margin-top: -50px;
+        position: relative;
+        z-index: 2;
+        
+    }
+	
+	a:hover{text-decoration:none;}
